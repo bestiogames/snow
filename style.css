@@ -12,7 +12,7 @@ body {
 #gameContainer canvas {
     display: block;
     background: #222;
-    /*background: url('tunnelRush.jpg') no-repeat center;*/
+    /*background: url('snow ride 3d') no-repeat center;*/
     /*background-color: black;*/
 }
 
@@ -86,7 +86,7 @@ body {
     }
 
     .webgl-content .logo.Dark {
-        //background-image: url('logo.png');
+        //background-image: url('https://cdn.jsdelivr.net/gh/bestiogames/snow@main/logo.png');
     }
 
     .webgl-content .progress.Dark .empty {
